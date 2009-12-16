@@ -45,8 +45,8 @@ Mac OS X: http://growl.info
 Windows:  http://growlforwindows.com
 Linux(libnotify): http://www.galago-project.org/news/index.php
 
-Make sure Zentest = 4.0.0 is NOT installed, as it has a lib 'autotest/growl' 
-that sometimes takes precedence.
+Make sure Zentest <= 4.0.0 (could also be the case with other versions <= 4.1.3)
+is NOT installed, as it has a lib 'autotest/growl' that sometimes takes precedence.
 
 == CONFIGURATION:
 
